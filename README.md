@@ -54,9 +54,8 @@
 
 - [WildBorn](https://github.com/PedroAMP22/Wildborn) — A 2D platform videogame.
 - [DeckDraw](https://github.com/PedroAMP22/PAD-2024-25_DeckDraw) — A mobile app for TCG.
-- My TFG : Right now i can't show it, but it's a deep learning system integrated in a federated enviroment. I got a 10.00
 
 
 ## Projects in Development
 
-- Developing a deep learning system that fills out documents automatically during phone calls.
+- A desktop app with a NLP AI model.
