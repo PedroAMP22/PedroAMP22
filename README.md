@@ -1,5 +1,8 @@
-<h1 align="center">Pedro Martin</h1>
-<p align="center"> Software Engineer | AI Master's Student @ UCM</p>
+<h1 align="center">Pedro Martín</h1>
+<p align="center"><b>Software Engineer | AI Researcher</b></p>
+<p align="center">
+  Especializándome en <b>xAI, Ontologías y Procesamiento de Audio</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedroamp22">
@@ -7,55 +10,55 @@
   </a>
 </p>
 
-## GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAMP22&layout=compact&theme=tokyonight" alt="pedroamp22-github" />
-</p>
+---
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroAMP22&show_icons=true&theme=tokyonight" alt="pedroamp22-github" />
-</p>
+## 🧠 Áreas de Especialización
 
-<p align="center"> 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=PedroAMP22&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="pedroamp22-github" />
-</p>
+* **Explainable AI (xAI):** Investigación en la interpretabilidad de modelos complejos, con foco en señales de audio.
+* **Knowledge Engineering:** Diseño de ontologías, Knowledge Graphs y sistemas basados en el conocimiento.
+* **Case-Based Reasoning (CBR):** Aplicación de razonamiento experto y recuperación semántica.
+* **Software Architecture:** Desarrollo robusto en Android nativo y motores de juegos (Phaser).
+* **Deep Learning & CV:** Procesamiento de datos masivos y visión por computador.
 
+---
 
-## Areas:
+## 🏗️ Proyectos en Desarrollo (Research)
 
-- Applied Artificial Intelligence  
-- Deep Learning & Computer Vision  
-- Cryptography and Secure Systems  
-- Data processing & automation
+### ⛩️ [ASAKO: Anime Semantic Architecture for Knowledge Operations](https://github.com/PedroAMP22/ASAKO_Ontology) 
+> **Estado:** `En progreso / Research Phase` 🛠️
+> 
+> Knowledge Graph jerárquico diseñado para **Case-Based Reasoning (CBR)** y **xAI**. Enfoque en interoperabilidad semántica mediante **Wikidata** y validación **SHACL**.
 
+---
 
+## ✅ Proyectos Finalizados
 
-## Tech Stack
+* **[WildBorn](https://github.com/PedroAMP22/Wildborn)** `Completed` 🍃
+  Videojuego de plataformas 2D desarrollado en **Phaser JS**. Implementación de lógica de transformaciones y puzzles ambientales. 
+
+* **[DeckDraw](https://github.com/PedroAMP22/PAD-2024-25_DeckDraw)** `Completed` 🎴
+  App nativa para Android (Proyecto UCM) centrada en la gestión social de mazos TCG y arquitectura de software.
+
+---
+
+## 🛠️ Tech Stack & Research Tools
+
 <div align="center">
-  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Semantic Web](https://img.shields.io/badge/-Semantic%20Web-336699?style=flat-square&logo=w3c&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![LaTeX](https://img.shields.io/badge/-LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
 
 </div>
 
-## Git Trophies
+---
 
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroAMP22&theme=discord&no-frame=true&no-bg=false&row=2&column=3" alt="pedroamp22-trophies">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAMP22&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroAMP22&show_icons=true&theme=tokyonight" />
 </p>
-
-
-## Own Projects
-
-- [WildBorn](https://github.com/PedroAMP22/Wildborn) — A 2D platform videogame.
-- [DeckDraw](https://github.com/PedroAMP22/PAD-2024-25_DeckDraw) — A mobile app for TCG.
-
-
-## Projects in Development
-
-- A desktop app with a NLP AI model.
