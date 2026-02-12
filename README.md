@@ -54,11 +54,3 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
 
 </div>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAMP22&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroAMP22&show_icons=true&theme=tokyonight" />
-</p>
