@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⛩️ Pedro Martín Peláez ⛩️
+# ⛩️ Pedro A. Martín Peláez ⛩️
 ### 🎓 Research Assistant @ Grupo GAIA (UCM) | Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroamp22)
@@ -19,7 +19,7 @@ Actualmente formo parte del **Grupo GAIA** en la Universidad Complutense de Madr
 
 ---
 
-## 🏗️ Featured Side Project: ASAKO ⛩️
+## Featured Side Project: ASAKO ⛩️
 
 ### [ASAKO: Anime Semantic Architecture for Knowledge Operations](https://github.com/PedroAMP22/ASAKO_Ontology)
 > *Un proyecto personal de Ingeniería del Conocimiento para el dominio del anime.*
