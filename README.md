@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⛩️ Pedro Martín Peláez ⛩️
+# ⛩️ Pedro A. Martín Peláez ⛩️
 
 ### Research Assistant @ GAIA Group (UCM) · Software Engineer · Audio & xAI
 
