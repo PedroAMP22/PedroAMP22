@@ -41,9 +41,7 @@ Plataformas 2D hecho en Phaser JS. Eres un druida de 14 años que se va transfor
 
 App nativa de Android para gestionar mazos de TCG — crear, buscar cartas, y sobre todo copiar y compartir mazos con amigos. Nació de una asignatura de la carrera, pero el objetivo real era hacer que construir mazos fuera algo más social. Proyecto en grupo con 4 compañeros más.
 
-<br clear="left"/>
-
-### ASAKO Ontology
+### [ASAKO Ontology](https://github.com/PedroAMP22/ASAKO_Ontology)
 Knowledge Graph jerárquico sobre anime pensado para Case-Based Reasoning y xAI — en vez de recomendar por "a la gente que le gustó X también le gustó Y", uso una taxonomía en 5 niveles (de tema general a subgénero) para calcular similitud semántica de verdad, e interconecto las entidades con Wikidata vía SPARQL federado.
 
 ~30k instancias, RDFS/OWL-Lite + validación con SHACL. Todavía en construcción (solo un 13% está enlazado a Wikidata), pero va creciendo cada temporada.
